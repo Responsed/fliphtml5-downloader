@@ -1,6 +1,7 @@
 Bản tiếng Việt | English Version
 
-FlipHTML5 PDF Downloader (English)
+# FlipHTML5 PDF Downloader (English)
+
 A command-line tool written in Python to download digital books from FlipHTML5 and save them as PDF files. This tool supports multi-threaded downloading for increased speed and offers options to create either original quality PDFs or compressed, smaller-sized PDFs.
 
 Features
@@ -77,7 +78,8 @@ compressor.py: A helper script responsible for compressing images and creating t
 requirements.txt: Contains the list of necessary Python libraries for the project.
 
 
-FlipHTML5 PDF Downloader (Tiếng Việt)
+# FlipHTML5 PDF Downloader (Tiếng Việt)
+
 Một công cụ dòng lệnh (command-line) được viết bằng Python để tải xuống các cuốn sách kỹ thuật số từ FlipHTML5 và lưu chúng dưới dạng tệp PDF. Công cụ này hỗ trợ tải đa luồng để tăng tốc độ và cung cấp các tùy chọn để tạo PDF chất lượng gốc hoặc PDF đã được nén dung lượng.
 
 Tính năng nổi bật
