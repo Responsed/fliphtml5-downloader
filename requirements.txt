@@ -1,0 +1,4 @@
+requests
+fpdf2
+Pillow
+tqdm
